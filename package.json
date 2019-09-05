@@ -1,0 +1,25 @@
+{
+  "name": "easy-event-bus",
+  "version": "0.0.1",
+  "description": "a simple event bus",
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie-gan/easy-event-bus.git"
+  },
+  "keywords": [
+    "event",
+    "bus"
+  ],
+  "author": "jackie-gan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie-gan/easy-event-bus/issues"
+  },
+  "homepage": "https://github.com/jackie-gan/easy-event-bus#readme"
+}
