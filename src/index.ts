@@ -29,3 +29,5 @@ class EventBus {
     return this;
   }
 }
+
+export default EventBus;
